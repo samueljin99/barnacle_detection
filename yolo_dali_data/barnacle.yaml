@@ -1,0 +1,6 @@
+path: /Users/samueljin/IdeaProjects/LLMs-from-scratch/DALI_Lab/yolo_dali_data
+train: images/train/
+val: images/valid/
+
+nc: 1
+names: ['bncl']
